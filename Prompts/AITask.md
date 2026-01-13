@@ -2,7 +2,7 @@
 
 ## Background Context
 
-This document provides comprehensive prompts for AI-driven test automation based on email requirements from Guru Nidoni. The goal is to create test cases with enough detail that AI can execute them independently while also serving as clear automation guides.
+This document provides comprehensive prompts for AI-driven test automation. The goal is to create test cases with enough detail that AI can execute them independently while also serving as clear automation guides.
 
 **Key Requirement:** Each test case should be written like a prompt to AI, enabling execution without prior knowledge, while referencing existing automation repository for context.
 
